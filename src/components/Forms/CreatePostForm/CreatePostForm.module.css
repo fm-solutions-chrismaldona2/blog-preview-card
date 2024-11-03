@@ -1,0 +1,37 @@
+.form__title {
+  display: block;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font: var(--text-preset-1);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.form__field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  align-items: start;
+}
+
+.form__footer {
+  display: block;
+  margin-top: 0.75rem;
+  text-align: center;
+  font: var(--text-preset-3);
+}
+
+.form__footer a {
+  text-decoration: none;
+  color: var(--gray-950);
+  font: var(--text-preset-3-bold);
+  transition: color 0.45s ease;
+}
+
+.form__footer a:hover {
+  color: var(--yellow);
+}

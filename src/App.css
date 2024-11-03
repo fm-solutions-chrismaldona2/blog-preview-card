@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Figtree";
+  src: url("./assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-display: swap;
+  font-style: normal;
+}
+
+:root {
+  --white: #fff;
+  --yellow: #f4d04e;
+  --gray-950: #111111;
+  --gray-500: #6b6b6b;
+
+  --default-fm: "Figtree", sans-serif;
+
+  --text-preset-1: 800 1.5rem/150% var(--default-fm);
+  --text-preset-2: 500 1rem/150% var(--default-fm);
+  --text-preset-3: 500 0.875rem/150% var(--default-fm);
+  --text-preset-3-bold: 800 0.875rem/150% var(--default-fm);
+}
+
+body {
+  font-family: var(--default-fm);
+}
+
+::-webkit-scrollbar {
+  width: 0.75rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--yellow);
+  border-radius: 2rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #a78612;
+  border-radius: 10px;
+}

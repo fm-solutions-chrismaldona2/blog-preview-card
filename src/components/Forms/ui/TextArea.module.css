@@ -1,0 +1,14 @@
+.textarea {
+  width: 100%;
+  min-height: 4rem;
+  max-height: 12rem;
+
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--white);
+  border: solid 1px var(--gray-950);
+  box-shadow: 0.15rem 0.15rem 0 var(--gray-950);
+  outline: none;
+
+  resize: vertical;
+}

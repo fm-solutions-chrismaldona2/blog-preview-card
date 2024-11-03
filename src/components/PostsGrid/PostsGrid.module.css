@@ -1,0 +1,10 @@
+.posts {
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, min(384px, 100%));
+  gap: clamp(1rem, 0.25rem + 2vw, 3rem);
+  overflow-y: auto;
+  height: 100%;
+}

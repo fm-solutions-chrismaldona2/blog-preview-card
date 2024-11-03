@@ -1,0 +1,4 @@
+.label {
+  font: var(--text-preset-3);
+  cursor: pointer;
+}
