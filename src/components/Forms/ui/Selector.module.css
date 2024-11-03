@@ -6,4 +6,5 @@
   border: solid 1px var(--gray-950);
   box-shadow: 0.15rem 0.15rem 0 var(--gray-950);
   outline: none;
+  cursor: pointer;
 }
