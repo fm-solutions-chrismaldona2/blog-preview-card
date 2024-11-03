@@ -10,6 +10,10 @@
   place-items: center;
 }
 
+.main > *:first-child {
+  justify-self: end;
+}
+
 .main > *:last-child {
   padding: 2rem 0.5rem;
 }
@@ -21,5 +25,9 @@
     min-height: 100dvh;
     grid-template-columns: auto;
     grid-auto-flow: row;
+  }
+
+  .main > *:first-child {
+    justify-self: center;
   }
 }
