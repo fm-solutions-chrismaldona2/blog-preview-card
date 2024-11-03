@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card Component Solution
 
-This is my solution for the [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) challenge: **Blog Preview Card Component**.
+This is my solution for the Frontend Mentor challenge: [Blog Preview Card Component](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Built With
 
