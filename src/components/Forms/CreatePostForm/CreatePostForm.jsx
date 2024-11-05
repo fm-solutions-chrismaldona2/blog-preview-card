@@ -86,7 +86,7 @@ export default function CreatePostForm({ onSubmit }) {
       </form>
 
       <span className={styles.form__footer}>
-        Created by{" "}
+        Developed by{" "}
         <a href="https://github.com/chrismaldona2" target="_blank">
           Christian Maldonado
         </a>
