@@ -10,7 +10,7 @@ This is my solution for the Frontend Mentor challenge: [Blog Preview Card Compon
 - CSS Modules
 
 ## Live Site
-Deployed at [Netlify](https://blogpreviewcard-frontendmentor.netlify.app/)
+Deployed at [Netlify](https://blogpreviewcard-frontendmentor.netlify.app/).
 
 ## Desktop Screenshot
 
