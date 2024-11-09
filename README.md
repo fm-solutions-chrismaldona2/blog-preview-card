@@ -9,6 +9,9 @@ This is my solution for the Frontend Mentor challenge: [Blog Preview Card Compon
 - React
 - CSS Modules
 
+## Live Site
+[Netlify Deploy](https://blogpreviewcard-frontendmentor.netlify.app/)
+
 ## Desktop Screenshot
 
 ![Desktop Preview](./desktop-preview.jpg)
