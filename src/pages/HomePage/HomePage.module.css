@@ -20,7 +20,7 @@
 
 @media (max-width: 90.625rem) {
   .main {
-    padding: 2rem;
+    padding: 5rem;
     height: auto;
     min-height: 100dvh;
     grid-template-columns: auto;
