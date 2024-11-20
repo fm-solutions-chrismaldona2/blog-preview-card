@@ -2,15 +2,15 @@
 
 This is my solution for the Frontend Mentor challenge: [Blog Preview Card Component](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
+## Live Site
+Deployed at [Netlify](https://blogpreviewcard-frontendmentor.netlify.app/).
+
 ## Built With
 
 - Semantic HTML5
 - Vite
 - React
 - CSS Modules
-
-## Live Site
-Deployed at [Netlify](https://blogpreviewcard-frontendmentor.netlify.app/).
 
 ## Desktop Screenshot
 
